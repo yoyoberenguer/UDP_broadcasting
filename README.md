@@ -8,4 +8,8 @@ You can exit the demonstration by pressing ESC key after clicking inside the win
 The synchronisation between the client/server is achieve using threading conditions and threading events.
 Every packets are checked for checksum error and synchronisation issue. 
 
+To start the demo
+```
+c:\>UDP_Broadcast -a 127.0.0.1 -p 59000 
 
+```
