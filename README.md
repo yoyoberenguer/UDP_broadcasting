@@ -1,4 +1,4 @@
-# UPD_broadcasting
+# UDP_broadcasting
 Video and sound broadcasting trough UDP/TCP sockets
 
 Play a demo in real time and send video packets through a socket using UDP protocol on localhost. 
