@@ -5,3 +5,7 @@ Play a demo in real time and send video packets through a socket using UDP proto
 The animation display on the small window is the video reconstitute from the UDP packets.
 You can exit the demonstration by pressing ESC key after clicking inside the window.
 
+The synchronisation between the client/server is achieve using threading conditions and threading events.
+Every packets are checked for checksum error and synchronisation issue. 
+
+
