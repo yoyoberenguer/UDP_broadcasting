@@ -13,3 +13,8 @@ To start the demo
 C:\>UDP_Broadcast -a 127.0.0.1 -p 59000 
 
 ```
+To run the program from source you will need the following libraries installed on your system
+
+1) lz4.frame
+2) ctypes
+3) pygame
